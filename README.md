@@ -12,7 +12,11 @@
 
 ![Totals Hits](https://komarev.com/ghpvc/?username=OamrHamdi&style=flat&color=orange&label=PROFILE+VIEWS)
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FOamrHamdi&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
-[![telegram badge](https://img.shields.io/badge/OamrHamdi-grey?style=flat&logo=telegram)](https://t.me/) <br>
+
+[![YouTube Channel](https://img.shields.io/badge/YouTube-Oamr_Hamdi-red?style=flat&logo=youtube)](https://www.youtube.com/channel/UCeO32BzWssgLUZDdZteNlXw)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Oamr_Hamdi-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/oamr-hamdi-109043255)
+[![Telegram](https://img.shields.io/badge/Telegram-Join%20Me-blue?style=flat&logo=telegram)](https://t.me/)  
+
 </div>
 
 ---
